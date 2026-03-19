@@ -16,7 +16,7 @@
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,nestjs,python,fastapi,docker,postgres,mongo,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,nestjs,python,fastapi,docker,postgres,bun,go)](https://skillicons.dev)
 
 ---
 
