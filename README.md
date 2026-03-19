@@ -16,7 +16,29 @@
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,nestjs,python,fastapi,docker,postgres,bun,go)](https://skillicons.dev)
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,postgres,nodejs,bun" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue" />
+</p>
+
+### ☁️ DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,ansible,git" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
 ---
 
