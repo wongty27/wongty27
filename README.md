@@ -19,7 +19,7 @@
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,postgres,nodejs,bun" />
+  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,postgres,nodejs" />
 </p>
 
 ### Frontend
