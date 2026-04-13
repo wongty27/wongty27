@@ -42,14 +42,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wongty27&show_icons=true&theme=catppuccin_mocha)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wongty27&layout=compact)
-
----
-
 ## 🧭 Current Focus
 
 - ⚡ Real-time systems & CDC pipelines
